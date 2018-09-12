@@ -1,6 +1,6 @@
 # Summary
 
-* [概述](README.md)
+* [声明](README.md)
 * [图像识别任务](part1/README.md)
     * [介绍](part1/1.1.md)
     * [问题空间](part1/1.2.md)
